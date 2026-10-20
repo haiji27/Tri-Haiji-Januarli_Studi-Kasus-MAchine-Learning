@@ -71,6 +71,4 @@ Dalam laporan tugas ini, dilakukan penelaahan terhadap enam algoritma *Supervise
 * **High Performance Computing:** Infrastruktur komputasi terdistribusi/paralel untuk pemrosesan skala besar.
 * **HCI & Visualisasi:** Perancangan visual data yang komunikatif bagi pengguna.
 
-> *Catatan: Poin teknologi di atas merupakan cakupan topik yang dipelajari dan diulas dalam dokumen laporan tugas, bukan sebagai seluruh kode program terpisah di repository ini.*
-
 ---
