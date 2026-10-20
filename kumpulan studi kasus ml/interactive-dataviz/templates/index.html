@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Interactive DataViz - HCI Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background: #f4f7f6; color: #333; }
+        header { background: #004085; color: white; padding: 20px; text-align: center; }
+        .container { max-width: 900px; margin: 30px auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+        h2 { color: #004085; border-bottom: 2px solid #004085; padding-bottom: 10px; }
+        .card { background: #fafafa; border-left: 5px solid #28a745; padding: 15px; margin-bottom: 20px; border-radius: 4px; }
+        .chart-box { text-align: center; margin-top: 20px; }
+        img { max-width: 100%; height: auto; border-radius: 6px; border: 1px solid #ddd; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Smart City Executive Dashboard</h1>
+        <p>Human-Computer Interaction & Data Visualization Overview</p>
+    </header>
+
+    <div class="container">
+        <h2>Ringkasan Kinerja Layanan Publik</h2>
+        <div class="card">
+            <p><b>Prinsip HCI:</b> Dashboard ini dirancang dengan hierarki visual yang jelas dan meminimalkan beban kognitif (*cognitive load*) bagi pengambil keputusan eksekutif.</p>
+        </div>
+        
+        <div class="chart-box">
+            <h3>Grafik Analitik Bulanan</h3>
+            <img src="{{ url_for('static', filename='images/trend_chart.png') }}" alt="Tren Grafik Analitik">
+        </div>
+    </div>
+
+</body>
+</html>
