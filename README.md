@@ -1,6 +1,6 @@
-# 📚 Tugas Laporan Machine Learning — Informatics Practitioner Lecture Series 2026
+# 📚 Tugas Laporan Informatics Practitioner Lecture Series 2026
 
-Repository ini memuat dokumentasi **Tugas Laporan** mata kuliah **Machine Learning**, yang merangkum hasil sintesis materi dan wawasan dari enam sesi kuliah umum *Informatics Practitioner Lecture Series: Connecting Academic Knowledge with Industry and Global Technology*.
+Repository ini memuat dokumentasi **Tugas Laporan**, yang merangkum hasil sintesis materi dan wawasan dari enam sesi kuliah umum *Informatics Practitioner Lecture Series: Connecting Academic Knowledge with Industry and Global Technology*.
 
 ---
 
@@ -10,7 +10,6 @@ Repository ini memuat dokumentasi **Tugas Laporan** mata kuliah **Machine Learni
 * **NPM:** G1A024069
 * **Program Studi:** Informatika
 * **Fakultas:** Teknik — Universitas Bengkulu
-* **Mata Kuliah:** Machine Learning
 * **Dosen Pengampu:** Ir. Arie Vatresia, S.T., M.T.I., Ph.D., IPP.
 
 ---
@@ -75,7 +74,3 @@ Dalam laporan tugas ini, dilakukan penelaahan terhadap enam algoritma *Supervise
 > *Catatan: Poin teknologi di atas merupakan cakupan topik yang dipelajari dan diulas dalam dokumen laporan tugas, bukan sebagai seluruh kode program terpisah di repository ini.*
 
 ---
-
-## 📚 Referensi
-
-1. Müller, A. C., & Guido, S. (2017). *Introduction to Machine Learning with Python: A Guide for Data Scientists*. O'Reilly Media.
